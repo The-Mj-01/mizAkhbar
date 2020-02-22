@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "268612702548",
+    "firebase_url": "https://test-b15df.firebaseio.com",
+    "project_id": "test-b15df",
+    "storage_bucket": "test-b15df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268612702548:android:47cf7b3c8c3b8043",
+        "android_client_info": {
+          "package_name": "com.mizakhbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268612702548-l3guekakj8ne44apecrkj7vgho4i13u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyQZGIbG98zXo9WABSlSOYbM1BGfNvGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
